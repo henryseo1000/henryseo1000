@@ -5,10 +5,13 @@
 - 👀 I’m interested in Chemistry, Bioinformatics, Computer engineering.
 - 🌱 I’m currently learning Bioinformatics, Computer engineering.
 
+
 [:email:E-mail]
 - Google : henryseo1000@gmail.com
 - Naver : henryseo1000@naver.com
 
+[![Solved.ac
+henryseo1000](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 <!---
 henryseo1000/henryseo1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
