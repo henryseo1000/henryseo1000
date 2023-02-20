@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Welcome to my Page!)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Welcome)
 
 - 👋 Hi, I’m @henryseo1000
 - 👀 I’m interested in Chemistry, Bioinformatics, Computer engineering.
