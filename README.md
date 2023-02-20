@@ -30,8 +30,12 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryseo1000)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 # 📝 Etc 
-- blog : https://blog.naver.com/henryseo1000
+- Blog : https://blog.naver.com/henryseo1000
 - Notion : https://somber-zinnia-698.notion.site/e975da6fc4f3451b958271228c983454?v=dd50f311552f4795bf157363486a41dc
 <!---
 henryseo1000/henryseo1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
