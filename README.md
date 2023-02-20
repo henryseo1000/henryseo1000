@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=000000&height=150&section=header&text=Welcome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=wave&color=#055B87&height=150&section=header&text=Welcome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 - 👋 Hi, I’m @henryseo1000
 - 👀 I’m interested in Chemistry, Bioinformatics, Computer engineering.
