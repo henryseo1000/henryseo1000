@@ -10,7 +10,7 @@
 - Google : henryseo1000@gmail.com
 - Naver : henryseo1000@naver.com
 
-[![:computer:](http://mazassumnida.wtf/api/generate_badge?boj=henryseo1000)](https://solved.ac/{handle})
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=henryseo1000)](https://solved.ac/{handle})
 
 <!---
 henryseo1000/henryseo1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
