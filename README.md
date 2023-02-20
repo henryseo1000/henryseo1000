@@ -11,8 +11,11 @@
 - Google : henryseo1000@gmail.com
 - Naver : henryseo1000@naver.com
 
+<br/>
+
 [:computer:I've Used...]
 
+<br/>
 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=henryseo1000)](https://solved.ac/{handle})
 
