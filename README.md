@@ -6,18 +6,16 @@
 - 🌱 I’m currently learning Computer engineering. 
 
 <br/> 
-<br/>
 
 ![Henryseo1000's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryseo1000&show_icons=true&theme=dark)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=henryseo1000)](https://solved.ac/henryseo1000)
 
-<br/>
+<br/> 
 
 # :email: E-mail
 - Google : henryseo1000@gmail.com
 - Naver : henryseo1000@naver.com
-
-<br/>
+<br/> 
 
 # :computer: Skills
 📘 [I'm Using...]
@@ -32,12 +30,12 @@
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryseo1000)](https://github.com/anuraghazra/github-readme-stats)
 --->
-
-<br/>
+<br/> 
 
 # 📝 Etc 
-- Blog : https://blog.naver.com/henryseo1000
+- Naver Blog : https://blog.naver.com/henryseo1000
 - Notion : https://somber-zinnia-698.notion.site/e975da6fc4f3451b958271228c983454?v=dd50f311552f4795bf157363486a41dc
+- Project Blog : https://henryseo1000.github.io
 <!---
 henryseo1000/henryseo1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
