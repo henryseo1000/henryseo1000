@@ -23,7 +23,7 @@
 - Tistory : https://livingrough.tistory.com
 - GitHub : https://henryseo1000.github.io
 
-![Henryseo1000's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=henryseo1000&show_icons=true&theme=dark)
+![Henryseo1000's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=henryseo1000&show_icons=true&theme=dark&hide_border=true)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=henryseo1000)](https://solved.ac/henryseo1000)
 <!---
 henryseo1000/henryseo1000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
