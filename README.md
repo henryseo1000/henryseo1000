@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HI,%20THERE!&fontSize=40&descSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=27445C&height=200&section=header&text=void%20hi_there(int%20greetings);&fontAlignY=40&fontColor=ffffff&fontSize=60)
 
 ## :satisfied: INTRODUCTION
 - 👋 Hi, I’m @henryseo1000, a growing developer.
