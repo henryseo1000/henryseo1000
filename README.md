@@ -20,7 +20,7 @@
 
 ## 📝 ETC 
 - Naver : https://blog.naver.com/henryseo1000
-- Notion : https://somber-zinnia-698.notion.site/e975da6fc4f3451b958271228c983454?v=dd50f311552f4795bf157363486a41dc
+- Tistory : https://livingrough.tistory.com
 - GitHub : https://henryseo1000.github.io
 
 ![Henryseo1000's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryseo1000&show_icons=true&theme=dark)
