@@ -2,7 +2,7 @@
 
 ## :satisfied: Introduction
 - 👋 Hi, I’m @henryseo1000, a growing developer.
-- 👀 I’m interested in __Embedded, AI, Java, C(C#/C++), React-Native/Spring, and also AWS__.
+- 👀 I’m interested in __Embedded, AI And also App(Kotlin/Java/React-Native/Spring)__.
 - 🌱 I’m currently learning Computer engineering. 
 
 ## :email: Contacts
