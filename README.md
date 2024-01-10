@@ -19,7 +19,6 @@
 
 ## 📝 ETC 
 - Naver : https://blog.naver.com/henryseo1000
-- Tistory : https://livingrough.tistory.com
 - GitHub : https://henryseo1000.github.io
 
 ![Henryseo1000's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryseo1000&show_icons=true&theme=dark&hide_border=true)
