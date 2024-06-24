@@ -2,7 +2,7 @@
 
 ## :satisfied: Introduction
 - 👋 Hi, I’m @henryseo1000, a growing developer.
-- 👀 I’m interested in __Embedded, AI And also App(Kotlin/Java/React-Native/Spring)__.
+- 👀 I’m interested in __Embedded and Web(Next.js/React-Native/Spring)__.
 - 🌱 I’m currently learning Computer engineering. 
 
 ## :email: Contacts
@@ -12,7 +12,7 @@
 ## :computer: Skills
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white) <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryseo1000)](https://github.com/anuraghazra/github-readme-stats)
 --->
